@@ -1,9 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loizidisvasileios-code/Credit-scoring-ML/blob/main/CreditRiskThesis.ipynb)
 
 
-# Thesis Project
+# Credit Risk using ML models
 
-_Credit Risk using ML models – Loizidis Vasileios_  
+_Thesis Project – Loizidis Vasileios_  
 _Department of Applied Mathematics and Physical Sciences, National Technical University of Athens_  
 _Supervisor: Petros Stefaneas_  
 _Date: November 2025_
