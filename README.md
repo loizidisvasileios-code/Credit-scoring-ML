@@ -16,9 +16,9 @@ _Date: November 2025_
 3. Run the cells by order: EDA → preprocessing (impute/scale) → Logistic Regression (baseline & SMOTE) → evaluation.
 
 *Target:* SeriousDlqin2yrs (0/1)  
-*Class imbalance:* ~7% positive → αντιμετώπιση με SMOTE &/or class_weight='balanced'.  
+*Class imbalance:* ~7% positive → SMOTE &/or class_weight='balanced'.  
 *Metrics:* Accuracy, Precision, Recall, F1, ROC–AUC.  
-*Reproducibility:* random_state=42 σε split/SMOTE/estimators.
+*Reproducibility:* random_state=42 in split/SMOTE/estimators.
 
 ---
 
