@@ -1,6 +1,6 @@
-# Credit Scoring using Machine Learning Models
+# Thesis Project
 
-_Thesis Project – Loizidis Vasileios_  
+_Credit Risk using ML models – Loizidis Vasileios_  
 _Department of Applied Mathematics and Physical Sciences, National Technical University of Athens_  
 _Supervisor: Petros Stefaneas_  
 _Date: November 2025_
@@ -30,8 +30,6 @@ The goal is to compare different ML approaches in terms of accuracy, interpretab
 
 ## Current Notebook
 
-File: CreditRiskThesis.ipynb
-
 Includes:
 - Data loading and preprocessing  
 - Exploratory Data Analysis (EDA)  
@@ -46,17 +44,16 @@ Includes:
 
 ## Objective
 
-Develop a **reliable, interpretable, and data-driven ML pipeline**  
+Develop a reliable, interpretable, and data-driven ML pipeline 
 that helps financial institutions estimate default risk and support credit approval decisions.
 
 ---
 
 ## Tools & Libraries
 
-- **Python (Google Colab)**  
+- Python (Google Colab)  
 - pandas, numpy, matplotlib, seaborn  
-- scikit-learn (LogisticRegression, StandardScaler, train_test_split, metrics)  
-- imbalanced-learn (SMOTE)  
+- scikit-learn (LogisticRegression, StandardScaler, train_test_split, metrics)    
 - joblib (for model persistence)
 
 ---
